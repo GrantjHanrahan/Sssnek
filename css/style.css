@@ -1,8 +1,15 @@
 #canvasWrap {
   margin: 5% auto;
   width: 300px;
+  /* text-align: center; */
 }
 
 canvas {
   border: 1px solid grey;
 }
+
+/* .container {
+  margin: auto;
+  width: 80%;
+  font-family: arial;
+} */
